@@ -51,7 +51,6 @@ class Login extends StatelessWidget{
                     ),
                     color: const Color(0x1296db),
                   ),
-
                 ]
             )
         )
