@@ -24,7 +24,6 @@ class Login extends StatelessWidget{
 
                   Image.asset("assets/images/ic_app.png"),
                   RaisedButton(
-
                     onPressed: (){
                       Navigator.push(context,
                           MaterialPageRoute(builder: (context) => login1()));
